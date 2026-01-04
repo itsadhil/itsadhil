@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤 | I am Adhil.<br>✈️ | I am 19 and I'm from India.<br>🎓 | I am currently pursuing my degree on computer science and engineering.<br>📋 | I code small projects to keep myself productive and Entertained.<br>🧩 | I just love coding on Python, My favourite language to use.<br>🔭 | I love editing video, photos, video games and content creation.
+👤 | I am Adhil.<br>✈️ | I am 20 and I'm from India.<br>🎓 | I am currently pursuing my degree on computer science and engineering.<br>📋 | I code small projects to keep myself productive and Entertained.<br>🧩 | I just love coding on Python, My favourite language to use.<br>🔭 | I love editing video, photos, video games and content creation.
 
 
 ## 🌐 Socials:
